@@ -2,16 +2,16 @@
 
 TEXTREF_T TextRefs[] =
 {
-	{1, "Increases certain magic focus while penalizes others."},
+	{1, "Increases certain magic foci while penalizing others."},
 	{2, "Recovers some of your health points almost immediately."},
 	{3, "Recovers some of your health points over time."},
-	{4, "Shovels are used to dig sand in the desert. While the shovel is equipped the 3D spinning cursor represents the targeted area. Position that cursor over a sand dune and USE the shovel to start moving the sand to your inventory."},
-	{5, "#6The shrine feels warm to the touch. The ancient runes on it's side flash for a brief moment..."},
+	{4, "Shovels are used to dig sand in the desert. While the shovel is equipped the 3D spinning cursor represents the targeted area. Position that cursor over a sand dune and USE the shovel to start moving the sand to your inventory. Note that the sand near the starting area is protected, and cannot be dug."},
+	{5, "#6The shrine feels warm to the touch. The ancient runes on its side flash for a brief moment..."},
 	{6, "#6As you explain your experience with the shrines you hear a voice in your head: #5'Pleeeease, help meeee...'"},
-	{7, "#6As the vial of spirit essence is handed to you a familiar voice in your head starts speaking to you: #5'Find me and pour this essence on my earthly remains.'"},
-	{8, "#6You pour the content of the vial on the body in front of you, then in a flash of a second it disappears.#n#5'Thank you my friend, you have saved my soul from being drained by the evil of these lakes. Take my key and enter the secret catacombs.'"},
+	{7, "#6As the vial of spirit essence is handed to you a familiar voice in your head starts speaking: #5'Find me and pour this essence on my earthly remains.'"},
+	{8, "#6You pour the content of the vial on the body in front of you, then with a quick flash it disappears.#n#5'Thank you my friend, you have saved my soul from being drained by the evil of these lakes. Take my key and enter the secret catacombs.'"},
 	{9, "Protects from offensive teleportaion effects."},
-	{10,"Place this item on your hotbar first, then click on it to equip it. Find a safe beach and right click the water surface to cast your fishing rod. Wait until indicator moves, then click your hotbar icon to catch the fish. Good luck!"},
+	{10,"Place this item on your hotbar first, then click on it to equip it. Find a safe beach and right-click the water surface to cast your fishing rod. Wait until the indicator moves, then click your hotbar icon to catch the fish. Good luck!"},
 	{11,"The primary forage location for this ingredient is around beaches, but you may find them around lush vegetation and desert dunes too."},
 	{12,"The primary forage location for this ingredient is around lakes and beaches, but you may find them around desert dunes too."},
 	{13,"The primary forage location for this ingredient is around lush fields and hills, but you may find them around desert dunes too."},
