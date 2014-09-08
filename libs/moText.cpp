@@ -130,7 +130,7 @@ TEXTREF_T TextRefs[] =
 	{204, "Searching the wilderness around you might yield some interesting finds..."},
 	{205, "These hills certainly have a unique vegetation..."},
 	{206, "There is garbage and trash, perhaps some valuables too..."},
-	{207, "Lakes attract not only the wild-life, but the adventurers as well..."},
+	{207, "Lakes attract not only wildlife, but adventurers as well..."},
 	{208, "Searching these dark halls for valuables might take a long while..."},
 	{209, "Eggs? Feathers? Who could tell what else..."},
 
@@ -321,7 +321,7 @@ TEXTREF_T TextRefs[] =
 	{1616,"Ahoy!#n#nPlease come back when you have practiced fishing, then I have additional tasks for you.#n#nYou can purchase fishing rod at general vendors."},
 	{1617,"Now that you have proven your basic skills at fishing, I will need your help to catch some tasty fish for my cooking.#n#nYou will find Devil Trout in the shallow waters. I will also need quite a few Eels for alchemy supplies.#n#nIn return I will pay you for your trouble."},
 	{1618,"I will need your help to clean up the nearby lakes.#nThere are several careless adventurers who throw their old and broken fishing equipments into the water.#n#nI can offer little money for your trouble..."},
-	{1619,"Are you looking for some challenges?#n#nTalk to the guards and complete a solo mission to earn your first mission token!#n#n#3Missions are randomly generated instances to match your adventuring level, usually having at least one boss and awesome loot at the end.#n#nWhen you talk to the guards, you will see several mission types. Take an easy mission for starter.#n#nGuards are also able to abort a mission, or teleport you back in case you die or leave it by typing the /home command.#n#nWhen you die on a mission, you will not be able to recover the lost experience!#n#nMissions will time out if you do not return for an hour..."},
+	{1619,"Are you looking for some challenges?#n#nTalk to the guards and complete a solo mission to earn your first mission token!#n#n#3Missions are randomly generated instances to match your adventuring level, usually having at least one boss and awesome loot at the end.#n#nWhen you talk to the guards, you will see several mission types. Take an easy mission for starters.#n#nGuards are also able to abort a mission, or teleport you back in case you die or leave it by typing the /home command.#n#nWhen you die on a mission, you will not be able to recover the lost experience!#n#nMissions will time out if you do not return for an hour..."},
 	{1620,""},
 	{1621,""},
 	{1622,""},
