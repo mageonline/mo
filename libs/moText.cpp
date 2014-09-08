@@ -142,7 +142,7 @@ TEXTREF_T TextRefs[] =
 	{214, "This is an average spot to forage."},
 	{215, "This is an above average spot to forage."},
 	{216, "This is a good spot to forage!"},
-	{207, "This is a very good spot to forage!"},
+	{217, "This is a very good spot to forage!"},
 	{218, "This is an excellent spot to forage!"},
 	{219, ""},
 
